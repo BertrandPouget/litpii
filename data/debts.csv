@@ -1,7 +1,7 @@
 Persona,Bilancio,,Creditore,Soldi,Debitori,Data,Causale
 Andrea,0,,Marco,10,Martino,"30/01/2026, 18:35",Koshari
-Marco,"9,994999999999994",,Martino,"15,53",Marco,"13/10/2025, 19:23",Guzzo
-Martino,"-9,995000000000005",,Marco,"31,05","Marco, Martino","03/10/2025, 17:47",Pizza
+Marco,"10,00",,Martino,"15,53",Marco,"13/10/2025, 19:23",Guzzo
+Martino,"-10,00",,Marco,"31,05","Marco, Martino","03/10/2025, 17:47",Pizza
 ,,,Martino,"21,24",Marco,"29/09/2025, 08:19",Guzzo
 ,,,Marco,"42,48","Martino, Marco","22/09/2025, 17:40",Guzzo
 ,,,Martino,"25,34",Marco,"17/09/2025, 08:52",Takeaways
