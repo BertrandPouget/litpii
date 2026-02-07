@@ -1,19 +1,20 @@
 Compito,Valore,Andrea,Marco,Martino,,Persona,Quando,Cosa
-Lavastoviglie (carico),1,45,105,76,,martino,"07/02/2026, 16:22","Lavastoviglie (scarico), Plastica, Spazzatura fuori, Spazzatura fuori 2"
-Lavastoviglie (scarico),1,24,109,99,,martino,"06/02/2026, 16:23",Superfici
-Superfici,2,13,14,23,,martino,"06/02/2026, 15:36",Lavastoviglie (carico)
-WC,3,3,11,7,,marco,"04/02/2026, 12:34","Lavastoviglie (scarico), Lavastoviglie (carico)"
-Lavandino,2,5,7,11,,marco,"02/02/2026, 20:17","Lavastoviglie (scarico), Lavastoviglie (carico)"
-Bidet,2,3,9,6,,martino,"02/02/2026, 18:05","Plastica, Spazzatura fuori, Spazzatura fuori 2"
-Doccia,2,0,0,4,,marco,"31/01/2026, 10:45",Spazzatura fuori
-Pavimento (aspirazione),2,0,10,5,,marco,"30/01/2026, 09:05","Lavastoviglie (scarico), Assente"
-Pavimento (pulizia),2,1,0,5,,marco,"29/01/2026, 17:19",Spazzatura fuori
-Plastica,1,10,39,54,,marco,"28/01/2026, 21:50",Plastica
-Indifferenziato,1,6,18,15,,martino,"26/01/2026, 18:21",Bidet
-Spazzatura fuori,2,15,73,86,,martino,"25/01/2026, 17:11",Lavandino
-Spazzatura fuori 2,1,2,21,28,,martino,"22/01/2026, 11:04","Lavastoviglie (carico), Plastica, Indifferenziato, Spazzatura fuori, Spazzatura fuori 2"
-Spazzatura fuori 3,1,0,6,4,,marco,"20/01/2026, 17:54",Spazzatura fuori
-Assente,1,13,23,7,,marco,"18/01/2026, 20:08",Spazzatura fuori
+Lavastoviglie (carico),1,45,105,77,,martino,"07/02/2026, 22:58",Lavastoviglie (carico)
+Lavastoviglie (scarico),1,24,109,99,,martino,"07/02/2026, 16:22","Lavastoviglie (scarico), Plastica, Spazzatura fuori, Spazzatura fuori 2"
+Superfici,2,13,14,23,,martino,"06/02/2026, 16:23",Superfici
+WC,3,3,11,7,,martino,"06/02/2026, 15:36",Lavastoviglie (carico)
+Lavandino,2,5,7,11,,marco,"04/02/2026, 12:34","Lavastoviglie (scarico), Lavastoviglie (carico)"
+Bidet,2,3,9,6,,marco,"02/02/2026, 20:17","Lavastoviglie (scarico), Lavastoviglie (carico)"
+Doccia,2,0,0,4,,martino,"02/02/2026, 18:05","Plastica, Spazzatura fuori, Spazzatura fuori 2"
+Pavimento (aspirazione),2,0,10,5,,marco,"31/01/2026, 10:45",Spazzatura fuori
+Pavimento (pulizia),2,1,0,5,,marco,"30/01/2026, 09:05","Lavastoviglie (scarico), Assente"
+Plastica,1,10,39,54,,marco,"29/01/2026, 17:19",Spazzatura fuori
+Indifferenziato,1,6,18,15,,marco,"28/01/2026, 21:50",Plastica
+Spazzatura fuori,2,15,73,86,,martino,"26/01/2026, 18:21",Bidet
+Spazzatura fuori 2,1,2,21,28,,martino,"25/01/2026, 17:11",Lavandino
+Spazzatura fuori 3,1,0,6,4,,martino,"22/01/2026, 11:04","Lavastoviglie (carico), Plastica, Indifferenziato, Spazzatura fuori, Spazzatura fuori 2"
+Assente,1,13,23,7,,marco,"20/01/2026, 17:54",Spazzatura fuori
+,,,,,,marco,"18/01/2026, 20:08",Spazzatura fuori
 ,,,,,,martino,"18/01/2026, 19:19","Lavastoviglie (carico), Lavastoviglie (scarico)"
 ,,,,,,marco,"17/01/2026, 17:14",Superfici
 ,,,,,,martino,"17/01/2026, 12:30","Lavastoviglie (carico), Lavastoviglie (scarico)"
