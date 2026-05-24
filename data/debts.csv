@@ -1,7 +1,8 @@
 Persona,Bilancio,,Creditore,Soldi,Debitori,Data,Causale
-Andrea,0,,Marco,10,Martino,"17/05/2026, 21:53",Scoglio e Tiramisù
-Marco,10,,Martino,10,Marco,"07/02/2026, 22:57",Pareggio Koshari
-Martino,-10,,Marco,10,Martino,"30/01/2026, 18:35",Koshari
+Andrea,0,,Martino,10,Marco,"24/05/2026, 10:20",Pareggio
+Marco,0,,Marco,10,Martino,"17/05/2026, 21:53",Scoglio e Tiramisù
+Martino,0,,Martino,10,Marco,"07/02/2026, 22:57",Pareggio Koshari
+,,,Marco,10,Martino,"30/01/2026, 18:35",Koshari
 ,,,Martino,"15,53",Marco,"13/10/2025, 19:23",Guzzo
 ,,,Marco,"31,05","Marco, Martino","03/10/2025, 17:47",Pizza
 ,,,Martino,"21,24",Marco,"29/09/2025, 08:19",Guzzo
