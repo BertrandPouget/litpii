@@ -1,19 +1,20 @@
 Compito,Valore,Andrea,Marco,Martino,,Persona,Quando,Cosa
-Lavastoviglie (carico),1,45,132,92,,martino,"12/07/2026, 08:34","Indifferenziato, Spazzatura fuori, Spazzatura fuori 2, Spazzatura fuori 3"
-Lavastoviglie (scarico),1,24,132,117,,marco,"11/07/2026, 10:50",Lavastoviglie (carico)
-Superfici,2,13,15,29,,marco,"10/07/2026, 17:49",Lavastoviglie (scarico)
-WC,3,3,14,10,,martino,"08/07/2026, 21:18",Plastica
-Lavandino,2,5,12,14,,martino,"08/07/2026, 21:08",Spazzatura fuori
-Bidet,2,3,13,6,,marco,"06/07/2026, 13:22","Spazzatura fuori, Spazzatura fuori 2"
-Doccia,2,0,1,4,,martino,"02/07/2026, 17:20",WC
-Pavimento (aspirazione),2,0,15,6,,martino,"01/07/2026, 19:16","Lavastoviglie (scarico), Superfici"
-Pavimento (pulizia),2,1,4,6,,marco,"01/07/2026, 17:56",Spazzatura fuori
-Plastica,1,10,46,66,,marco,"01/07/2026, 06:08",Lavastoviglie (carico)
-Indifferenziato,1,6,24,16,,marco,"30/06/2026, 16:51",Lavandino
-Spazzatura fuori,2,15,85,108,,marco,"30/06/2026, 15:44","Spazzatura fuori, Pavimento (aspirazione), Pavimento (pulizia)"
-Spazzatura fuori 2,1,2,26,39,,marco,"28/06/2026, 22:51","Lavastoviglie (scarico), Lavastoviglie (carico)"
-Spazzatura fuori 3,1,0,6,6,,marco,"24/06/2026, 21:46","Lavastoviglie (carico), Lavastoviglie (scarico)"
-Assente,1,13,24,7,,marco,"17/06/2026, 19:58",Lavastoviglie (carico)
+Lavastoviglie (carico),1,45,132,92,,martino,"12/07/2026, 11:23","Lavastoviglie (scarico), Superfici"
+Lavastoviglie (scarico),1,24,132,118,,martino,"12/07/2026, 08:34","Indifferenziato, Spazzatura fuori, Spazzatura fuori 2, Spazzatura fuori 3"
+Superfici,2,13,15,30,,marco,"11/07/2026, 10:50",Lavastoviglie (carico)
+WC,3,3,14,10,,marco,"10/07/2026, 17:49",Lavastoviglie (scarico)
+Lavandino,2,5,12,14,,martino,"08/07/2026, 21:18",Plastica
+Bidet,2,3,13,6,,martino,"08/07/2026, 21:08",Spazzatura fuori
+Doccia,2,0,1,4,,marco,"06/07/2026, 13:22","Spazzatura fuori, Spazzatura fuori 2"
+Pavimento (aspirazione),2,0,15,6,,martino,"02/07/2026, 17:20",WC
+Pavimento (pulizia),2,1,4,6,,martino,"01/07/2026, 19:16","Lavastoviglie (scarico), Superfici"
+Plastica,1,10,46,66,,marco,"01/07/2026, 17:56",Spazzatura fuori
+Indifferenziato,1,6,24,16,,marco,"01/07/2026, 06:08",Lavastoviglie (carico)
+Spazzatura fuori,2,15,85,108,,marco,"30/06/2026, 16:51",Lavandino
+Spazzatura fuori 2,1,2,26,39,,marco,"30/06/2026, 15:44","Spazzatura fuori, Pavimento (aspirazione), Pavimento (pulizia)"
+Spazzatura fuori 3,1,0,6,6,,marco,"28/06/2026, 22:51","Lavastoviglie (scarico), Lavastoviglie (carico)"
+Assente,1,13,24,7,,marco,"24/06/2026, 21:46","Lavastoviglie (carico), Lavastoviglie (scarico)"
+,,,,,,marco,"17/06/2026, 19:58",Lavastoviglie (carico)
 ,,,,,,marco,"17/06/2026, 06:13",Lavastoviglie (scarico)
 ,,,,,,martino,"15/06/2026, 20:49",Superfici
 ,,,,,,martino,"15/06/2026, 20:29","Lavastoviglie (carico), Lavastoviglie (scarico), Plastica, Spazzatura fuori, Spazzatura fuori 2"
